@@ -1,0 +1,42 @@
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.csproj.AssemblyReference.cache
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.AssemblyInfoInputs.cache
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.AssemblyInfo.cs
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.csproj.CoreCompileInputs.cache
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.deps.json
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.runtimeconfig.json
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.dll
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.pdb
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.dll
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\refint\OnlineEducationPlatform.DAL.dll
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.pdb
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.genruntimeconfig.cache
+D:\DEPI Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\ref\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.deps.json
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.runtimeconfig.json
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.pdb
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.csproj.AssemblyReference.cache
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.AssemblyInfoInputs.cache
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.AssemblyInfo.cs
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\refint\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.pdb
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.genruntimeconfig.cache
+C:\Users\Nada\Desktop\online platform\DEPI-Project\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\ref\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.deps.json
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.runtimeconfig.json
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\bin\Debug\net8.0\OnlineEducationPlatform.DAL.pdb
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.csproj.AssemblyReference.cache
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.AssemblyInfoInputs.cache
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.AssemblyInfo.cs
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\refint\OnlineEducationPlatform.DAL.dll
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.pdb
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\OnlineEducationPlatform.DAL.genruntimeconfig.cache
+C:\Users\Nada\Desktop\projectde\OnlineEducationPlatform\OnlineEducationPlatform.DAL\obj\Debug\net8.0\ref\OnlineEducationPlatform.DAL.dll
